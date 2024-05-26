@@ -6,7 +6,7 @@ public class inputfiles {
         System.out.println("Enter a value : ");
         int a = sc.nextInt();
         System.out.println("The a value is : " + a);
-
+        sc.close();
     }
 
 }

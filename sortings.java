@@ -109,6 +109,7 @@ public class sortings {
                 System.out.println("INVALID OPTION");
                 break;
         }
-
+        sc.close();
     }
+
 }
