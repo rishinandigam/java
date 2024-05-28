@@ -1,8 +1,15 @@
+import nothing.*;
+import java.util.Scanner;
 
-import  nothing.*;
 public class FactorialDemo {
+
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n;
+        System.out.println("Enter the n value : ");
+        n = sc.nextInt();
         factorial obj = new factorial();
-     obj.displayFactorial(5);
+        obj.displayFactorial(n);
+        sc.close();
     }
 }
