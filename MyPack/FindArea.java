@@ -96,7 +96,7 @@ class FindArea{
 
 		String strq = sc.nextLine();
 		System.out.println(strq);
-		
+		sc.close();
 	}
 }
 
