@@ -1,3 +1,5 @@
+
+
 class A1 {
     A1() {
         System.out.println("A1's no arg constructor");

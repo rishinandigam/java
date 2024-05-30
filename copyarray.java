@@ -1,3 +1,4 @@
+
 public class copyarray {
     public static void main(String[] args) {
         int source[] = { 10, 20, 39, 45, 56, 67 };

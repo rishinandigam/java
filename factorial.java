@@ -1,4 +1,4 @@
-package nothing;
+
 public class factorial {
     public void displayFactorial( int n)
     {

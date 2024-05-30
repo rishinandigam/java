@@ -1,4 +1,4 @@
-import nothing.*;
+
 import java.util.Scanner;
 
 public class FactorialDemo {

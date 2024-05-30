@@ -1,3 +1,4 @@
+
 // to call methods from static main() method
 
 public class Demo {
